@@ -32,3 +32,9 @@ Modo de uso:
   - [Minimum range] - Rgango minimo
   - [Output dir] - directorio de salida
 
+### Carpetas
+
+El programa se separa en folder
+  - data - Carpeta recomendada para los archvos de entrada
+  - src - Aqui se encuentra la funcion AARules
+  - analysis - Carpeta recomndada como ruta de salida
