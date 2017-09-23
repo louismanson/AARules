@@ -1,6 +1,6 @@
 # # Anasisys Association rules R script
 
-[![N|Solid](http://www.amup.com.mx/wp-content/uploads/2015/09/Cetys.png)]
+![N|Solid](http://www.amup.com.mx/wp-content/uploads/2015/09/Cetys.png)
 
 Es un script hecho ne R que que analiza una base de datos transaccional y saca las reglas de asociación haciendo uso de Apriori, una vez con las reglas de asociación hace una serie de gráficas en formato PNG.
 
